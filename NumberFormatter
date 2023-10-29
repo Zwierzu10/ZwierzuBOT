@@ -1,0 +1,14 @@
+abbrev = {"", "K", "M", "B", "T", "Qd", "Qn", "Qi", "Sx", "Sp", "Spx"}
+
+local function Format(value, idp)
+	local ex = math.floor(math.log(math.max(1, math.abs(value)), 1000))
+	local abbrevs = abbrev [1 + ex] or ("e+"..ex)
+	local normal = math.floor(value * ((10 ^ idp) / (1000 ^ ex))) / (10 ^ idp)
+
+	return ("%."..idp.."f%s"):format(normal, abbrevs)
+end
+
+while wait() do
+local Player = game.Players.LocalPlayer
+script.Parent.Text = Format(Player.leaderstats.Money.Value,1)
+end
