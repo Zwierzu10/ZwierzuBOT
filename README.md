@@ -9,7 +9,7 @@
 - 🖥 I have 4 years of experience in programming in Roblox and 2 years in Python
 - 🕹 I started learning HTML, CSS, JavaScript, React and SQL in first grade of High School
 - 👨🏻‍🏫 I help classmates in studying programming languages
-- 
+  
 
 
 - 📫 How to reach me:
