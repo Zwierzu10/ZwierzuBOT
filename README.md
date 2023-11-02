@@ -4,7 +4,7 @@
 - 👀 I’m keen on programming in JavaScript, React , HTML, CSS , Python and LUA
 
   
-- 🌱 I’m currently learning React
+- 🌱 I’m currently programming in React
 
 - 🖥 I have 4 years of experience in programming in Roblox and 2 years in Python
 - 🕹 I started learning HTML, CSS, JavaScript, React and SQL in first grade of High School
