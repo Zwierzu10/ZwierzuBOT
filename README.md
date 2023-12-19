@@ -17,5 +17,5 @@
 - Messenger: Mati Zwierzchowski
 - Gmail: zwierzchowski.mateo@gmail.com
 - GitHub: ZwierzuBOT
-- Instagram: mateusz_zwierzchowski
+- LinkedIn: Mateusz Zwierzchowski
 
