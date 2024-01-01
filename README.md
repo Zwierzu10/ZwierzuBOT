@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZwierzuBOT - Mateusz Zwierzchowski
 
   
-- 👀 I’m keen on programming in JavaScript, React , HTML, CSS , Python and LUA
+- 👀 I’m keen on programming in JavaScript, React , HTML, CSS 
 
   
 - 🌱 I’m currently programming in React
