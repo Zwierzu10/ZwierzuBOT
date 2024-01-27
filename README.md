@@ -9,7 +9,7 @@
 - 🖥 I have 4 years of experience in programming in Roblox 
 - 🕹 I started learning HTML, CSS, JavaScript, and React in first grade of High School
 - 👨🏻‍🏫 I help classmates in studying programming languages
-- 👨‍💻 My main programming language is JavaScript/TypeScript with React
+- 👨‍💻 My main programming language is JavaScript with React
   
 
 
