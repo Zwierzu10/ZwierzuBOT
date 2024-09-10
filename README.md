@@ -4,7 +4,7 @@
 - 👀 I’m keen on programming in JavaScript, React , NextJS , HTML, CSS 
 
   
-- 🌱 I’m currently programming in React
+- 🌱 I’m currently programming in NextJS 
 
 - 🖥 I have 4 years of experience in programming in Roblox 
 - 🕹 I started learning HTML, CSS, JavaScript, and React in first grade of High School
