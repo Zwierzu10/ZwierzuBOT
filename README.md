@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @ZwierzuBOT - Mateusz Zwierzchowski
 
 - I'm from Poland
-- 👀 I’m keen on programming in JavaScript, React , NextJS , HTML, CSS 
+- 👀 I’m keen on programming in TypeScript, React , NextJS
 
   
 - 🌱 I’m currently programming in NextJS 
 
 - 🖥 I have 4 years of experience in programming in Roblox 
-- 🕹 I started learning HTML, CSS, JavaScript, and React in first grade of High School
+- 🕹 I use technologies such as NextJS, Clerk, Firebase, Tailwind
 - 👨🏻‍🏫 I help classmates in studying programming languages
 - 👨‍💻 My main programming language is JavaScript with React
   
